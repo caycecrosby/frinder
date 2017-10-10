@@ -1,0 +1,87 @@
+
+
+var myFriends = [
+
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+
+{
+  "name":"Ashley",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      1,
+      5,
+      2,
+      2,
+      1,
+      5,
+      4,
+      1,
+      2,
+      5
+    ]
+},  
+  
+{
+    "name":"Martin",
+    "photo":"https://i2.wp.com/cdn.history.com/sites/2/2013/11/Martin_Van_Buren-AB.jpeg",
+    "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "name":"Gabriella",
+    "photo":"http://whatsgabycooking.com/wp-content/uploads/GA9A0880.jpg",
+    "scores":[
+      2,
+      4,
+      5,
+      4,
+      3,
+      3,
+      2,
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "name":"victor",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgilmYTwYOLjClKUpvB0ycw_Cv66wdzL5lgf3LHfOcMgUf7SDW",
+    "scores":[
+      1,
+      2,
+      3,
+      2,
+      4,
+      1,
+      5,
+      2,
+      3,
+      2
+    ]
+  }
+]
